@@ -8,43 +8,11 @@ Uploaded both fastq files to using galaxy
 Assemble genome using SPAdes
 genome assembler for genomes of regular and single-cell projects
 (Galaxy Version 3.15.5+galaxy3)
+
 Using default settings
 
 assembled genome using Abyss
-ABySS
+ ABySS
 de novo sequence assembler
 (Galaxy Version 2.3.10+galaxy0)
 with default settings expect k-mer=96
-
-Downloaded all Spades files to spadesoutgalaxy folder
-renamed
-
-Downloaded all ABySS files to AByssoutgalaxy folder 
-renamed
-
-Quast through Galaxy 
-quality assessment of assembly using Quast galaxy version 5.3.0+galaxy0
-with default setting except assemblies are scaffolds rather than contigs
-
-Downloaded all Spades quast reports to quastspadesgalaxy folder
-renamed
-
-Downloaded all ABySS quast reports to quastabyssgalaxy folder 
-renamed
-
-Command line - errors using galaxy for barrnap
-
-used Barrnap galaxy version 1.212 to pull out 16S rRNA sequences
-with default settings except save rRNA hits as fasta - Yes 
-
-Downlaoded Fasta file saved into rRNA folder
-using rRNA seqeucnes to identify species using blastn
-
-Protein annotation with 
-Prokka - Prokaryotic genome annotation
-(Galaxy Version 1.14.6+galaxy1)
-with default settings 
-
-Fast ANI through galaxy using neighbors file 
-upload unsuccessful 
-
