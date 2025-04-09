@@ -16,3 +16,29 @@ assembled genome using Abyss
 de novo sequence assembler
 (Galaxy Version 2.3.10+galaxy0)
 with default settings expect k-mer=96
+
+Quast was ran on Galaxy 
+ Quast
+Genome assembly Quality
+(Galaxy Version 5.3.0+galaxy0)
+with default setting except assemblies are scaffolds rather than contigs
+
+ Barrnap was ran through galaxy barrnap
+Locate ribosomal RNA's in a fasta file. (GFF output)
+(Galaxy Version 1.2.2)
+
+default settings except yes - save rna hits as fasta
+
+using this a Blastn was run through NCBI
+
+Prokka was ran through galaxy  
+Prokka
+Prokaryotic genome annotation
+(Galaxy Version 1.14.6+galaxy1)
+
+RAST did not email back with account verification - waited 3 days. 
+
+Using NCBI related genomes were downloaded and a FAST ANI through galaxy was ran 
+ FastANI
+fast alignment-free computation of whole-genome Average Nucleotide Identity
+(Galaxy Version 1.3)
