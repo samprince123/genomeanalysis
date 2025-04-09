@@ -1,0 +1,2 @@
+"D:\GenomeAnalysis\Neighbors\Opacus.fna"
+"D:\GenomeAnalysis\Neighbors\Pyridinivorans.fna"

@@ -1,0 +1,18 @@
+Genome Assembly 
+
+Using galaxy due to multiple errors in command line. 
+Unable to find commands or any installed programs; conda,spades,etc.
+
+Uploaded both fastq files to using galaxy
+
+Assemble genome using SPAdes
+genome assembler for genomes of regular and single-cell projects
+(Galaxy Version 3.15.5+galaxy3)
+
+Using default settings
+
+assembled genome using Abyss
+ ABySS
+de novo sequence assembler
+(Galaxy Version 2.3.10+galaxy0)
+with default settings expect k-mer=96
