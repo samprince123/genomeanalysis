@@ -1,0 +1,15 @@
+Assembly	ABySS_on_data_48_and_data_49__scaffolds	ABySS_on_data_48_and_data_49__scaffolds_broken
+# contigs (>= 0 bp)	6630	-
+# contigs (>= 1000 bp)	91	98
+Total length (>= 0 bp)	3087839	-
+Total length (>= 1000 bp)	1347680	1340525
+# contigs	345	365
+Largest contig	440091	440091
+Total length	1507085	1504851
+GC (%)	32.46	32.46
+N50	437950	213445
+N90	936	872
+auN	261398.4	197765.6
+L50	2	3
+L90	100	113
+# N's per 100 kbp	76.97	0.66
